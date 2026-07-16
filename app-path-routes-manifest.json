@@ -1,0 +1,12 @@
+{
+  "/(dashboard)/agents/page": "/agents",
+  "/(dashboard)/analyzer/page": "/analyzer",
+  "/(dashboard)/dashboard/page": "/dashboard",
+  "/(dashboard)/profile/page": "/profile",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/auth/[...nextauth]/route": "/api/auth/[...nextauth]",
+  "/favicon.ico/route": "/favicon.ico",
+  "/login/page": "/login",
+  "/page": "/"
+}
